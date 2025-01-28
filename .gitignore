@@ -1,0 +1,14 @@
+# Kotlin
+.kotlin
+.kotlin-js-store
+
+# Gradle
+.gradle
+build
+build-cache
+generated
+
+# Idea
+.idea
+
+local.properties
