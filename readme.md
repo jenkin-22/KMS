@@ -15,3 +15,6 @@
 ## JavaScript/Browser
 
 Run one of these commands from the project root:
+
+- ./gradlew jsBrowserDevelopmentRun
+- ./gradlew jsBrowserProductionRun
